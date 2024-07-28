@@ -5,4 +5,4 @@ result = "result : " # string
 print (result, x)
 print (result, digit)
 print (result, boolean)
-
+print(result + str(digit))
