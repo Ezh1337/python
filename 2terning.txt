@@ -1,0 +1,6 @@
+# Start- og sluttverdi for terningene
+# Funksjon som kaster to terninger
+# Funksjon som teller antall kast til vi får to like terninger
+# Hvis terningene ikke er like, fortsett å kaste
+ # Skriver ut det siste kastet som resulterer i to like terninger
+ # Kjør funksjonen hvis scriptet blir kjørt direkte
