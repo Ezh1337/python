@@ -1,0 +1,15 @@
+#lage en array med spørsmål og svar
+#lage 2 variabler som teller riktige og feil svarene
+
+#Lage en for løkke for å framvise hver og enkelt sprsm:
+    #Lage en varibel som tar imot svarene fra bruker og gjør de om til småtekst
+
+    #sjekke om svar som ble inntastet stemmer:
+        #printe ut : du har rett
+        #forstørre antall riktige svar med 1
+    #ellers (om svaren ikke stemmer)  :
+        #printe ut : du bomma
+        #forstørre antall feil svar med 1
+
+
+#skriv ut antall riktige og feil svar

@@ -1,0 +1,20 @@
+# Denne koden skal behandle en pizza-bestilling
+
+# Spørre kunden hvor mange pizzaer h*n skal ha?
+# Lagre antall_bestilte pizzaer
+
+# Sett antall_lagde pizzer lik 0 
+
+# Utfør loop om det er flere pizzaer i bestillingen
+    # Vi lager pizza nummer: ?
+    # Lag pizzabunn
+    # Ha på tomatsaus
+    # Ha på sopp
+    # Ha på skinke
+    # Ha på ost
+    # stek i 10 min
+    # Sette pizzaen i varmeskap
+
+    # Øk antall_lagde pizzaer med 1
+
+# Server alle pizzaene til kunden

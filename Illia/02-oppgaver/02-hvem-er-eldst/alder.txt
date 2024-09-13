@@ -1,0 +1,17 @@
+
+#Lage en variabel Kari og tilordne den verdi alder, som bruker velger
+
+
+#Lage en variabel Henrik og tilordne den verdi alder, som bruker velger
+
+
+
+#Hvis Kari er eldre enn Henrik,så
+    # Lærer: Husk å bruke innrykk på det som skal skje om if-testen blir sann
+    # skrive ut at Kari er eldre
+# Ellers hvis Henrik er eldre enn Kari,så  
+    # skrive ut at Kari er eldre
+# Ellers 
+    #skrive ut at de er like gamle
+
+# Lærer: Elles bra pseudokode, Illia!

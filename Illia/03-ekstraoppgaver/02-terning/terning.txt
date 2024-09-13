@@ -1,0 +1,8 @@
+#import random biblioteket
+#Lag 1 variabel terning kan ha
+#lag siste variabel terning kan ha
+#Lage en funksjon som velger en random tall mellom variabel 1 og 2
+#Lag en varibel resultat, og gi den tall 0, for start
+#Hvis result er ikke 6, så kaster terning vi igjen
+#Skrive ut midlertidig resultat
+#Gratulere en gambler

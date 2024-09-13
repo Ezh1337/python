@@ -1,0 +1,21 @@
+# Lag gronn_kopp
+# Lag gul_kopp
+# Lag rosa_kopp
+
+# Legg blaa_penn i gronn_kopp
+# Legg rod_penn i gul_kopp
+
+# Skriv innholdet i gronn_kopp til skjerm
+# Skriv innholdet i gul_kopp til skjerm
+
+# Legg blaa_penn i rosa_kopp
+# Lærer: skriv heller at innholdet i gronn_Kopp kopieres til Rrsa_Kopp
+# Legg rod_penn i gronn_kopp
+# Legg blaa_penn i gul_kopp
+
+
+# Skriv innholdet i gronn_kopp til skjerm
+# Skriv innholdet i gul_kopp til skjerm
+
+
+# Lærer: Bra pseudokode, Illia.

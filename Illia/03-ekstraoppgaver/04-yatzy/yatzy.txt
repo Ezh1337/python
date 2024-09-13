@@ -1,0 +1,9 @@
+#imporeter biblioteket random
+
+#Lage 5 terning-variabler
+
+#lage en funksjon som simulerer 1 kast
+#lage while løkke- sånn at hvis tallene stemmer ikke, det blir en kast til
+    #gjenta kaster
+        #skrive ut hva skjer på enest kast
+#skrive ut yatzy hvis alle 5 ternninger har samme verdi

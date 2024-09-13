@@ -1,0 +1,9 @@
+# Velge en tall fra 1 til 10
+# Sjekk om tallet er gyldig (1-10):
+    #Hvis ja informerer om tall som ganges:
+        #lager en midlertidig variabel i, som kan være i interval 1- 10 og da kjører vi for løkke :
+            #lager en variabel result og ganger det med rangen av i-variablen
+            #skriver ut resultater hver for seg
+#hvis ikke da ber vi om å velge gyldig tall
+
+

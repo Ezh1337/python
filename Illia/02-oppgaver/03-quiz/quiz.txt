@@ -1,0 +1,106 @@
+#Lag variabel rik_svar, som teller riktige svar fra brukeren
+#Lag variabel feil_svar, som teller feil svar fra brukeren
+
+
+#skrive ut 1 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+    #feilsvar forstørre med 1
+
+#skrive ut 2 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 3 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 4 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 5 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 6 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 7 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 8 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 9 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    #riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+#skrive ut 10 sprsm
+#lage en input med mulighet for svar 
+
+#hvis input = riktig svar
+    #skrive ut "du hadde rett"
+    # riksvar forstørre med 1
+#ellers
+    #skrive ut "du bomma"
+     #feilsvar forstørre med 1
+
+
+#skriv ut antall riktige og feil svar

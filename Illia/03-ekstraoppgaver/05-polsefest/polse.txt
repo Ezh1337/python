@@ -1,0 +1,15 @@
+#importere math_library
+
+#lage en funksjon, som regner alt sammen med 2 parametre fra brukeren, pølser og mennesker:
+    #finne ut hvor mye pølser skal være til sammen
+    #finne ut hvor mye pakker med pølser trenger vi
+    #finne ut hvor mye pakker med brød trenger vi
+    #finne ut hvor mye pølser skal være til overs
+    #finne ut hvor mye brød skal være til overs
+    #skrive ut antall pakker med pølser, som trenges
+    #skrive ut antall pakker med brød, som trenges
+    #skrive ut pølser, som er til overs
+    #skrive ut brød, som er til overs
+#få antall mennesker fra brukeren og tilordne det til en verdi, som blir en parameter i funksjonen
+#få antall pølser per person fra brukeren og tilordne det til en verdi, som blir en parameter i funksjonen
+#kjøre en funksjon
